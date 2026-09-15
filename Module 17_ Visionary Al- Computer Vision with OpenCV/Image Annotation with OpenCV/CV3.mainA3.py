@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-image=cv2.imread('Jemifinal.jpg')
+image=cv2.imread('roses.png')
 height, width,_ = image.shape
 
 #image = np.zeros((height, width, 3), dtype=np.uint8)

@@ -99,5 +99,4 @@ while True:
     elif key == ord('q'):
         break
 
-
 cv2.destroyAllWindows()
